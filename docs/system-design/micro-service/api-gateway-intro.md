@@ -11,7 +11,11 @@
 我所了解的目前经常用到的开源 API 网关系统有：
 
 1. Kong
-2. Netflix zuul
+1. Netflix zuul
+1. Goproxy
+1. Envoy
+1. Netty衍生品
+1. spring cloud gateway
 
 下图来源：https://www.stackshare.io/stackups/kong-vs-zuul 。
 
